@@ -4,7 +4,7 @@
     	Return to   
     	<a href="/" target="_blank" class="no-decor-link">
     		<strong>Home</strong>
-	    	<i class="fa fa-github font-20"></i>
+	    	<i class="fa fa-home font-20"></i>
 	    </a>
     </p>
     <div class="go-top" @click="toTop" :class="{'go-top-hidden': isHidden}">
