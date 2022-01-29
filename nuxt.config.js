@@ -45,8 +45,8 @@ module.exports = {
     }
   },
   feed() {
-    const baseUrlArticles = 'https://moonhea.com/blog';
-    const baseLinkFeedArticles = '/blog';
+    const baseUrlArticles = 'https://moonhea.com/blog/post';
+    const baseLinkFeedArticles = '/post';
     const feedFormats = {
       rss: { type: 'rss2', file: 'feed.xml' },
     }

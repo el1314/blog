@@ -67,12 +67,15 @@
         </nuxt-link>
       </div>
     </div>
+    <div id="disqus_thread">
+    </div>
   </main>
 </template>
 
 
 <script type="text/javascript">
 import zoompic from "../../plugins/zoompic";
+import disqus from "../../plugins/disqus";
 
 export default {
   layout: "post",
@@ -98,10 +101,17 @@ export default {
   mounted: function(){
     var that = this;
     that.$nextTick(() => {
+      window.PAGE_URL = "https://moonhea.com" + window.location.pathname;
+      window.PAGE_IDENTIFIER = window.location.pathname;
+      that.loadDisqus();
       that.loadCustomScripts();
     });
   },
   methods: {
+    loadDisqus() {
+      document.getElementById("disqus_thread").innerHTML = "";
+      disqus("disqus_thread");
+    },
     loadCustomScripts() {
       var that = this;
       var w = window;
