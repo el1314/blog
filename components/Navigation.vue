@@ -24,7 +24,7 @@
           </a>
         </li>
         <li class="nav-link">
-          <a target="_blank" href="/post/feed.xml" class="no-decor-link">
+          <a target="_blank" href="blog/post/feed.xml" class="no-decor-link">
             <i class="fa fa-rss"></i>
             订阅
           </a>
@@ -61,7 +61,7 @@ export default {
         fa_class: "fa-archive"
       },
       {
-        path: "https://www.moonhea.com/desk-weibo",
+        path: "https://www.moonhea.com/",
         title: "短博客",
         target: "_blank",
       }
