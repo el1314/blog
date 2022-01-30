@@ -44,7 +44,7 @@ export default {
     var siteName = "Moonhea's blog";
     var nav_links_zh = [{
         path: "/",
-        title: "首页",
+        title: "博客首页",
         target: "_self",
         fa_class: "fa-home"
       },
@@ -56,14 +56,15 @@ export default {
       },
       {
         path: "/post",
-        title: "博客",
+        title: "归档",
         target: "_self",
         fa_class: "fa-archive"
       },
       {
         path: "https://www.moonhea.com/",
         title: "短博客",
-        target: "_blank",
+        target: "_self",
+        fa_class: "fa-weibo"
       }
     ];
 
