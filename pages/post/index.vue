@@ -2,15 +2,15 @@
   <main class="blog-main">
     <p>
       <span style="vertical-align: middle;">语言:</span>
-      <nuxt-link to="/blog/language/English" class="blog-lang">
+      <nuxt-link to="/post/language/English" class="blog-lang">
         <i class="fa fa-language"></i>
         English
       </nuxt-link>
-      <nuxt-link to="/blog/language/中文" class="blog-lang">
+      <nuxt-link to="/post/language/中文" class="blog-lang">
         <i class="fa fa-language"></i>
         中文
       </nuxt-link>
-      <nuxt-link to="/blog/language/日本語" class="blog-lang">
+      <nuxt-link to="/post/language/日本語" class="blog-lang">
         <i class="fa fa-language"></i>
         日本語
       </nuxt-link>
@@ -18,7 +18,7 @@
     <p>
       <span style="vertical-align: middle;">标签:</span>
       <span class="blog-tag" style="vertical-align: middle;">
-        <nuxt-link to="/blog/tag">
+        <nuxt-link to="/post/tag">
           <i class="fa fa-tag" style="color:inherit"></i>
           标签列表
         </nuxt-link>
@@ -34,12 +34,12 @@
         <span class="blog-date">
           {{blog.date.substring(0,10)}}
         </span>
-        <nuxt-link :to="'/blog/language/' + blog.language"
+        <nuxt-link :to="'/post/language/' + blog.language"
          class="blog-lang">
           <i class="fa fa-language"></i>
           {{blog.language}}
         </nuxt-link>
-        <nuxt-link :to="'/blog/' + blog.slug" class="blog-link"
+        <nuxt-link :to="'/post/' + blog.slug" class="blog-link"
         :title="blog.description">
           {{blog.title}}
         </nuxt-link>
