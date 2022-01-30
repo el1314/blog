@@ -2,7 +2,7 @@
   <footer>
     <p>Moonhea's blog <br>
     	Return to   
-    	<a href="/" target="_blank" class="no-decor-link">
+    	<a href="/" class="no-decor-link">
     		<strong>Home</strong>
 	    	<i class="fa fa-home font-20"></i>
 	    </a>
