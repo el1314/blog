@@ -12,12 +12,17 @@
       <ul class="nav-ul">
         <li class="nav-link" v-for="(link, index) in nav_links_zh"
         :key="index">
-          <nuxt-link v-if="link.target=='_self'"
+          <nuxt-link v-if="link.target=='internal'"
           :to="link.path" class="no-decor-link">
             <i class="fa" :class="link.fa_class"></i>
             {{link.title}}
           </nuxt-link>
-          <a v-if="link.target=='_blank'" target="_blank"
+          <a v-if="link.target=='otherSite'" 
+          :href="link.path" class="no-decor-link">
+            <i class="fa" :class="link.fa_class"></i>
+            {{link.title}}
+          </a>
+          <a v-if="link.target=='external'" target="_blank"
           :href="link.path" class="no-decor-link">
             {{link.title}}
             <i class="fa fa-external-link"></i>
@@ -45,25 +50,25 @@ export default {
     var nav_links_zh = [{
         path: "/",
         title: "博客首页",
-        target: "_self",
+        target: "internal",
         fa_class: "fa-home"
       },
       {
         path: "/about",
         title: "关于",
-        target: "_self",
+        target: "internal",
         fa_class: "fa-user"
       },
       {
         path: "/post",
         title: "归档",
-        target: "_self",
+        target: "internal",
         fa_class: "fa-archive"
       },
       {
         path: "https://www.moonhea.com/",
         title: "短博客",
-        target: "_self",
+        target: "otherSite",
         fa_class: "fa-weibo"
       }
     ];
