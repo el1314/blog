@@ -4,9 +4,15 @@
         <title>My Blog</title>
         <link>https://moonhea.com/blog/post</link>
         <description>I write about technology</description>
-        <lastBuildDate>Sun, 30 Jan 2022 15:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 10:31:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[《三角窗外是黑夜》——批皮耽美是诈骗]]></title>
+            <link>https://moonhea.com/blog/post/sankaku-mado-no-sotogawa-wa-yoru</link>
+            <guid>https://moonhea.com/blog/post/sankaku-mado-no-sotogawa-wa-yoru</guid>
+            <description><![CDATA[被灵力困扰的少年，遇到了用灵力赚钱的除灵师，喜闻乐见的双向救赎，但是你要说这是BL电影，那只能是在诈骗了。]]></description>
+        </item>
         <item>
             <title><![CDATA[幕末的爱情悲剧——《冬之蝉》]]></title>
             <link>https://moonhea.com/blog/post/fuyu-no-semi</link>
