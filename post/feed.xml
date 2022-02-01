@@ -4,9 +4,15 @@
         <title>My Blog</title>
         <link>https://moonhea.com/blog/post</link>
         <description>I write about technology</description>
-        <lastBuildDate>Mon, 31 Jan 2022 10:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 15:06:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[《银魂》第46集，被胜负蒙蔽了双眼的女人很可怕吗？]]></title>
+            <link>https://moonhea.com/blog/post/gintama-ep46-review</link>
+            <guid>https://moonhea.com/blog/post/gintama-ep46-review</guid>
+            <description><![CDATA[同在夜总会工作的阿妙和阿音，为了争得业绩第一而不断掏空男人们的钱包，长久以来只会哈哈哈的观众终于破防了。]]></description>
+        </item>
         <item>
             <title><![CDATA[《三角窗外是黑夜》——批皮耽美是诈骗]]></title>
             <link>https://moonhea.com/blog/post/sankaku-mado-no-sotogawa-wa-yoru</link>
