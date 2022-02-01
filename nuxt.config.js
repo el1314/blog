@@ -33,7 +33,8 @@ module.exports = {
   },
   modules: [
   '@nuxt/content',
-  '@nuxtjs/feed'
+  '@nuxtjs/feed',
+  '@nuxtjs/sitemap'
   ],
   content: {
     // $content api will be served on localhost:3000/content-api
@@ -42,6 +43,22 @@ module.exports = {
       prism: {//need to create folder and import manually
         theme: 'prism-themes/themes/prism-ghcolors.css'
       }
+    }
+  },
+  sitemap: {
+    hostname: 'https://moonhea.com',
+    gzip: true,
+    routes: async () => {
+      let routes = [];
+      const { $content } = require('@nuxt/content')
+      let posts = await $content('blog')
+        .sortBy('date','desc')
+        .only(['date','title','slug','description'])
+        .fetch();
+      for (const post of posts) {
+        routes.push(`blog/post/${post.slug}`);
+      }
+      return routes;
     }
   },
   feed() {
