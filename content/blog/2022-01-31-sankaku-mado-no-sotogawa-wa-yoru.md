@@ -5,7 +5,7 @@ language: 中文
 title: 《三角窗外是黑夜》——批皮耽美是诈骗
 description: 被灵力困扰的少年，遇到了用灵力赚钱的除灵师，喜闻乐见的双向救赎，但是你要说这是BL电影，那只能是在诈骗了。
 categories: [影视赏析]
-tags: [BL电影,冈田将生,志尊淳]
+tags: [BL,电影,冈田将生,志尊淳]
 keywords: [耽美,Boy's Love,三角窗外是黑夜,さんかく窓の外側は夜]
 comments: true
 ---
