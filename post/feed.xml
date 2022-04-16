@@ -4,9 +4,15 @@
         <title>My Blog</title>
         <link>https://moonhea.com/blog/post</link>
         <description>I write about technology</description>
-        <lastBuildDate>Sat, 16 Apr 2022 14:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 14:32:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[《拥抱春天的罗曼史》——我又在耽美作品里找女权了]]></title>
+            <link>https://moonhea.com/blog/post/haru-wo-daiteita-embracing-love</link>
+            <guid>https://moonhea.com/blog/post/haru-wo-daiteita-embracing-love</guid>
+            <description><![CDATA[看完了传说中的《拥抱春天的罗曼史》，感觉不如前传《冬之蝉》更有故事性。先看前传再看本传，我也是没谁了。]]></description>
+        </item>
         <item>
             <title><![CDATA[《银魂》第49集，终于集齐了黄赌毒]]></title>
             <link>https://moonhea.com/blog/post/gintama-ep49-review</link>
