@@ -5,7 +5,7 @@ language: 中文
 title: 《恋爱的暴君》——又想扛着火车跑路了
 description: 告白被拒之后，应该怎么办？
 categories: [影视赏析]
-tags: [动画,耽美,拥抱春天的罗曼史]
+tags: [动画,耽美,恋爱的暴君]
 keywords: [美化强奸]
 comments: true
 ---
