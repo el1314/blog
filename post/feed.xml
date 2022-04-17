@@ -4,9 +4,15 @@
         <title>My Blog</title>
         <link>https://moonhea.com/blog/post</link>
         <description>I write about technology</description>
-        <lastBuildDate>Sat, 16 Apr 2022 14:51:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 10:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[《恋爱的暴君》——又想扛着火车跑路了]]></title>
+            <link>https://moonhea.com/blog/post/koi-suru-boukun</link>
+            <guid>https://moonhea.com/blog/post/koi-suru-boukun</guid>
+            <description><![CDATA[告白被拒之后，应该怎么办？]]></description>
+        </item>
         <item>
             <title><![CDATA[《拥抱春天的罗曼史》——我又在耽美作品里找女权了]]></title>
             <link>https://moonhea.com/blog/post/haru-wo-daiteita-embracing-love</link>
