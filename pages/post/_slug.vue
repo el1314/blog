@@ -253,7 +253,7 @@ a#comment-link {
   background-color: rgba(0,0,0,0.025);
 }
 #disqus_thread {
-  margin-top: 20px;
+  margin-top: 60px;
 }
 .prev-next {
   margin: 20px auto;
