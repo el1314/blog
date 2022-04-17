@@ -56,7 +56,7 @@ module.exports = {
         .only(['date','title','slug','description'])
         .fetch();
       for (const post of posts) {
-        routes.push(`blog/post/${post.slug}`);
+        routes.push(`post/${post.slug}`);
       }
       return routes;
     }
