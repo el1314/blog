@@ -4,9 +4,15 @@
         <title>My Blog</title>
         <link>https://moonhea.com/blog/post</link>
         <description>I write about technology</description>
-        <lastBuildDate>Sun, 17 Apr 2022 12:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 13:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[小哥与小姐——尊称、昵称还是蔑称？]]></title>
+            <link>https://moonhea.com/blog/post/xiaoge-and-xiaojie</link>
+            <guid>https://moonhea.com/blog/post/xiaoge-and-xiaojie</guid>
+            <description><![CDATA[小哥是对快递或送餐员的昵称，那小姐呢？小姐姐又是什么呢？]]></description>
+        </item>
         <item>
             <title><![CDATA[《恋爱的暴君》——又想扛着火车跑路了]]></title>
             <link>https://moonhea.com/blog/post/koi-suru-boukun</link>
