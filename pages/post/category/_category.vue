@@ -4,10 +4,10 @@
       分类: {{categoryName}}
     </h1>
     <p>
-      <span class="blog-cat">
-        <nuxt-link to="/post/category">
-          <i class="fa fa-folder-open"></i>
-          分类列表
+      <span class="blog-tag">
+        <nuxt-link to="/post/tag">
+          <i class="fa fa-tag"></i>
+          标签列表
         </nuxt-link>
       </span>
       <span class="blog-tag">

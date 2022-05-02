@@ -4,16 +4,15 @@
       语言: {{langName}}
     </h1>
     <p>
-      <span class="blog-lang">
-        <nuxt-link to="/post/language">
-          <i class="fa fa-language"></i>
-          语言列表
+      <span class="blog-tag">
+        <nuxt-link to="/post/tag">
+          <i class="fa fa-tag"></i>
+          标签列表
         </nuxt-link>
       </span>
-      <span 
-      class="blog-tag">
+      <span class="blog-tag">
         <nuxt-link to="/post">
-          <i class="fa fa-list" style="color:inherit;"></i>
+          <i class="fa fa-list"></i>
           文章列表
         </nuxt-link>
       </span>

@@ -25,7 +25,7 @@ export default async ($content, params, error) => {
   };
 
   const paginatedArticles = await $content("blog")
-    .only(["title", "date", "description", "slug", "language", "tags"])
+    .only(["title", "date", "description", "slug", "language", "tags","categories"])
     .sortBy("date", "desc")
     .limit(perPage)
     .skip(skipNumber())

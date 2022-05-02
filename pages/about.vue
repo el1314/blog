@@ -1,6 +1,6 @@
 <template>
   <main class="blog-main">
-    自我介绍
+    <p>胡乱看看，胡乱写写。</p>
   </main>
 </template>
 
