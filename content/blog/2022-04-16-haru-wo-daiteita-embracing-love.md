@@ -5,7 +5,7 @@ language: 中文
 title: 《拥抱春天的罗曼史》——我又在耽美作品里找女权了
 description: 看完了传说中的《拥抱春天的罗曼史》，感觉不如前传《冬之蝉》更有故事性。先看前传再看本传，我也是没谁了。
 categories: [动画,耽美]
-tags: [拥抱春天的罗曼史,森川智之,三木真一郎]
+tags: [拥抱春天的罗曼史,森川智之,三木真一郎,女权]
 keywords: [厌女,BL,Boy's Love]
 comments: true
 ---
