@@ -4,9 +4,15 @@
         <title>My Blog</title>
         <link>https://moonhea.com/blog/post</link>
         <description>I write about technology</description>
-        <lastBuildDate>Mon, 02 May 2022 09:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 14:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[我画的银魂人物像]]></title>
+            <link>https://moonhea.com/blog/post/my-gintama-artwork</link>
+            <guid>https://moonhea.com/blog/post/my-gintama-artwork</guid>
+            <description><![CDATA[画了一些《银魂》的人物像，非常平面色块化，仅供自己欣赏用。]]></description>
+        </item>
         <item>
             <title><![CDATA[小哥与小姐——尊称、昵称还是蔑称？]]></title>
             <link>https://moonhea.com/blog/post/xiaoge-and-xiaojie</link>
