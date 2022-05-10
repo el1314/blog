@@ -38,6 +38,10 @@ comments: true
 
 ![桂小太郎-和尚](https://user-images.githubusercontent.com/72009576/167300564-75f67c89-21aa-4700-9799-6904166ed811.jpg)
 
+### 桂小太郎-和尚-有袈裟
+
+![桂小太郎-和尚-有袈裟](https://user-images.githubusercontent.com/72009576/167670957-05ee4e0f-fa89-43ae-9774-d976d20d2652.jpg)
+
 ### 桂小太郎-旗袍
 
 ![桂小太郎-旗袍](https://user-images.githubusercontent.com/72009576/167300566-f2c64451-b374-435c-9e46-61e25bc7409c.jpg)
