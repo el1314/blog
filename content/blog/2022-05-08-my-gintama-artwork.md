@@ -6,7 +6,7 @@ title: 我画的银魂人物像
 description: 画了一些《银魂》的人物像，非常平面色块化，仅供自己欣赏用。
 categories: [相册,动画]
 tags: [银魂]
-keywords: [土方十四郎,桂小太郎]
+keywords: [土方十四郎,桂小太郎,fanart,同人作品]
 comments: true
 ---
 
