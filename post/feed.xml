@@ -4,9 +4,15 @@
         <title>My Blog</title>
         <link>https://moonhea.com/blog/post</link>
         <description>I write about technology</description>
-        <lastBuildDate>Sat, 14 May 2022 17:43:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2022 16:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[《猎罪图鉴》，一个要素很多的大杂烩]]></title>
+            <link>https://moonhea.com/blog/post/under-the-skin</link>
+            <guid>https://moonhea.com/blog/post/under-the-skin</guid>
+            <description><![CDATA[看口罩画脸，看头骨画脸，看童年画成年，看成年画童年，看AI合成脸还原人脸，他就是个神。]]></description>
+        </item>
         <item>
             <title><![CDATA[我画的银魂人物像]]></title>
             <link>https://moonhea.com/blog/post/my-gintama-artwork</link>
