@@ -6,7 +6,7 @@ title: 《银魂》第49集，终于集齐了黄赌毒
 description: 这集讲赌博，阿银和Madao又穿裤衩走了。
 categories: [动画]
 tags: [银魂]
-keywords: [厌女]
+keywords: [厌女,影视评论]
 comments: true
 ---
 

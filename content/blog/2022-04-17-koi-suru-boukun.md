@@ -6,7 +6,7 @@ title: 《恋爱的暴君》——又想扛着火车跑路了
 description: 告白被拒之后，应该怎么办？
 categories: [动画,耽美]
 tags: [恋爱的暴君,鸟海浩辅]
-keywords: [美化强奸,BL,Boy's Love]
+keywords: [美化强奸,BL,Boy's Love,影视评论]
 comments: true
 ---
 

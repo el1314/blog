@@ -6,7 +6,7 @@ title: 看完《性的剧药》之后的一点感想
 description: 看了《性的剧药》的真人电影、原作漫画、演员导演采访，整个就是一个震惊加佩服。
 categories: [耽美,电影]
 tags: [性的剧药]
-keywords: [BL,Boy's Love,性的剧药,性之剧药,性的剧毒]
+keywords: [BL,Boy's Love,性的剧药,性之剧药,性的剧毒,影视评论]
 comments: true
 ---
 

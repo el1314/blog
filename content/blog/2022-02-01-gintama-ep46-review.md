@@ -6,7 +6,7 @@ title: 《银魂》第46集，被胜负蒙蔽了双眼的女人很可怕吗？
 description: 同在夜总会工作的阿妙和阿音，为了争得业绩第一而不断掏空男人们的钱包，长久以来只会哈哈哈的观众终于破防了。
 categories: [动画]
 tags: [银魂]
-keywords: [厌女]
+keywords: [厌女,影视评论]
 comments: true
 ---
 

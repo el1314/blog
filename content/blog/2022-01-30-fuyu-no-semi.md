@@ -6,7 +6,7 @@ title: 幕末的爱情悲剧——《冬之蝉》
 description: 一个是倒幕派，一个是幕府的家臣，一看就是容易引起腥风血雨的设定啊。
 categories: [耽美,动画]
 tags: [森川智之,三木真一郎,拥抱春天的罗曼史]
-keywords: [BL,Boy's Love,冬之蝉,OVA]
+keywords: [BL,Boy's Love,冬之蝉,OVA,影视评论]
 comments: true
 ---
 
