@@ -1,10 +1,10 @@
 <template>
   <footer>
     <p>Moonhea's blog <br>
-    	Return to   
+    	回到主站   
     	<a href="/" class="no-decor-link">
-    		<strong>Home</strong>
-	    	<i class="fa fa-home font-20"></i>
+    		<strong>短博客</strong>
+	    	<i class="fa fa-weibo font-20"></i>
 	    </a>
     </p>
     <div class="go-top" @click="toTop" :class="{'go-top-hidden': isHidden}">
