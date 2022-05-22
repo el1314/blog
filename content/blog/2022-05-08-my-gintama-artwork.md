@@ -10,6 +10,12 @@ keywords: [土方十四郎,桂小太郎,fanart,同人作品]
 comments: true
 ---
 
+## 坂田银时
+
+### 坂田银时-云纹和服
+
+![坂田银时-云纹和服](https://user-images.githubusercontent.com/72009576/169698742-328cdcd6-58d5-420f-b931-c25322a41747.jpg)
+
 ## 土方十四郎
 
 ### 土方十四郎-真选组制服
