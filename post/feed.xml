@@ -4,9 +4,15 @@
         <title>My Blog</title>
         <link>https://moonhea.com/blog/post</link>
         <description>I write about technology</description>
-        <lastBuildDate>Wed, 15 Jun 2022 03:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 03:40:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[《云襄传》，反套路的武侠也挺好看]]></title>
+            <link>https://moonhea.com/blog/post/yun-xiang-zhuan</link>
+            <guid>https://moonhea.com/blog/post/yun-xiang-zhuan</guid>
+            <description><![CDATA[如此娇弱的男主，我还是第一次见到。]]></description>
+        </item>
         <item>
             <title><![CDATA[《猎罪图鉴》，一个要素很多的大杂烩]]></title>
             <link>https://moonhea.com/blog/post/under-the-skin</link>
