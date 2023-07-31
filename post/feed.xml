@@ -4,9 +4,15 @@
         <title>My Blog</title>
         <link>https://moonhea.com/blog/post</link>
         <description>I write about technology</description>
-        <lastBuildDate>Sat, 27 May 2023 03:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 11:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[《芭比》，是女儿，也是母亲]]></title>
+            <link>https://moonhea.com/blog/post/no-longer-a-barbie</link>
+            <guid>https://moonhea.com/blog/post/no-longer-a-barbie</guid>
+            <description><![CDATA[电影其实说的是曾经活在幻想乐园的两个女孩面对现实世界的故事。]]></description>
+        </item>
         <item>
             <title><![CDATA[《云襄传》，反套路的武侠也挺好看]]></title>
             <link>https://moonhea.com/blog/post/yun-xiang-zhuan</link>
