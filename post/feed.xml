@@ -4,9 +4,15 @@
         <title>My Blog</title>
         <link>https://moonhea.com/blog/post</link>
         <description>I write about technology</description>
-        <lastBuildDate>Mon, 31 Jul 2023 11:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 05:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[长安三万里--李白不能入赘吗？]]></title>
+            <link>https://moonhea.com/blog/post/chang-an-san-wan-li</link>
+            <guid>https://moonhea.com/blog/post/chang-an-san-wan-li</guid>
+            <description><![CDATA[长安三万里，只有男诗人。]]></description>
+        </item>
         <item>
             <title><![CDATA[《芭比》，是女儿，也是母亲]]></title>
             <link>https://moonhea.com/blog/post/no-longer-a-barbie</link>
