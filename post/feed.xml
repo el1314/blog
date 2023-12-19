@@ -4,9 +4,15 @@
         <title>My Blog</title>
         <link>https://moonhea.com/blog/post</link>
         <description>I write about technology</description>
-        <lastBuildDate>Tue, 01 Aug 2023 05:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 07:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[三大队，“我执”是因为“我值”]]></title>
+            <link>https://moonhea.com/blog/post/endless-journey</link>
+            <guid>https://moonhea.com/blog/post/endless-journey</guid>
+            <description><![CDATA[电影《三大队》取材于2018年的纪实文学作品《请转告局长，三大队任务完成了》，讲述了刑警三队长程兵历经12年的追凶之路，程兵由张译饰演。]]></description>
+        </item>
         <item>
             <title><![CDATA[长安三万里--李白不能入赘吗？]]></title>
             <link>https://moonhea.com/blog/post/chang-an-san-wan-li</link>
