@@ -1,0 +1,1 @@
+import{L as e,f as t,h as n}from"./Tp8c9cUM.js";import{a as r}from"#entry";import{t as i}from"./CNs_Ozdc.js";var a={class:`blog-main`},o={__name:`about`,setup(o){return i({layout:`page`}),r({title:()=>`关于我`,description:()=>`我的博客文章`}),(r,i)=>(e(),n(`main`,a,[...i[0]||=[t(`p`,null,`胡乱看看，胡乱写写。`,-1)]]))}};export{o as default};
