@@ -15,8 +15,8 @@ export default defineNuxtConfig({
       link: [
         { rel: 'shortcut icon', type: 'image/x-icon', href: '/favicon.ico' },
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-        { rel: 'stylesheet', href: '/css/style.css?2026-08-31' },
-        { rel: 'stylesheet', href: '/font-awesome/css/font-awesome.min.css'},
+        { rel: 'stylesheet', href: '/blog/css/style.css?2026-08-31' },
+        { rel: 'stylesheet', href: '/blog/font-awesome/css/font-awesome.min.css'},
       ],
       script: [
         { src: '/js/statcounter.js?2022-01-29'},
