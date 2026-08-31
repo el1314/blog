@@ -1,0 +1,1 @@
+import{L as e,V as t,b as n,f as r,h as i}from"./Tp8c9cUM.js";import{t as a}from"#entry";import{n as o,t as s}from"./DZr_X9FR.js";var c={},l={class:`container`};function u(a,c){let u=o,d=s;return e(),i(`div`,l,[n(u),r(`main`,null,[t(a.$slots,`default`)]),n(d)])}var d=a(c,[[`render`,u]]);export{d as default};

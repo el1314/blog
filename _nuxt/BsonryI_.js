@@ -1,0 +1,1 @@
+import{S as e}from"./Tp8c9cUM.js";import{i as t}from"./BwyrsCQu.js";var n=e({__name:`[...slug]`,setup(e){throw t({statusCode:404,message:`页面未找到`})}});export{n as default};
