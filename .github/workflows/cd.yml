@@ -13,7 +13,7 @@ jobs:
       - name: Setup node env
         uses: actions/setup-node@v4  # 升级到最新版
         with:
-          node-version: 20          # 使用 Node.js 20 LTS（或 18）
+          node-version: 24          # 使用 Node.js 20 LTS（或 18）
           cache: 'npm'              # 启用 npm 缓存，加速安装
 
       - name: Install dependencies

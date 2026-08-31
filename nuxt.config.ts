@@ -1,4 +1,7 @@
 export default defineNuxtConfig({
+  experimental: {
+    validate: false,
+  },
   app: {
     baseURL: '/blog/',
     head: {
