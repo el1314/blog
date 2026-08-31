@@ -87,7 +87,7 @@ defineExpose({
         :src="images[currentIndex]"
         alt="放大图片"
         class="zoom-image"
-        @click="close"
+        @click.stop="close"
       />
       <button
         class="zoom-btn next"

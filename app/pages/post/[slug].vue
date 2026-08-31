@@ -141,11 +141,9 @@ article h3, article h4, article h5  {
   margin: 8px 0px;
   padding: 0px;
 }
-article h2, article h3 {
-  border-bottom: 1px solid silver;
-}
 article h2 {
   font-size: 28px;
+  border-bottom: 1px solid silver;
 }
 article h3 {
   font-size: 26px;
