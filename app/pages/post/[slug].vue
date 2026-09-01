@@ -122,8 +122,9 @@ definePageMeta( {
 
 useSeoMeta({
   title: () => `江东渚:${blog.title}`,
-  date: () => blog.time,
+  date: () => blog.meta.date,
   description: () => blog.description,
+  keywords: () => blog.meta.keywords.join(','),
 })
 </script>
 
