@@ -2,7 +2,7 @@
 date: 2026-08-31
 slug: novel-woke-up
 language: 中文
-title: 醒来之后
+title: 原创小说《醒来之后》
 description: 《醒来之后》——代发原创小说。作者：独孤北斗。欢迎投稿~
 categories: [原创小说]
 tags: [独孤北斗]

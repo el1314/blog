@@ -91,7 +91,6 @@ const data2 = await useAsyncData(
     return await queryCollectionItemSurroundings('blog', blog.path)
   },
 )
-console.log(data2.data.value)
 
 let prevNext = data2.data.value;
 for (let i = 0; i<2; i++) {
