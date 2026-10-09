@@ -51,7 +51,7 @@ for (let m = 0; m < blogs.length; m++) {
 }
 const key_arr = Object.keys(tempObj);
 for (let n = 0; n < key_arr.length; n++) {
-  blog_by_year_cat.push(tempObj[key_arr[key_arr.length - 1 - n]]);
+  blog_by_year_cat.push(tempObj[key_arr[n]]);
 }
 definePageMeta( {
   layout: "post",

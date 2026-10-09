@@ -51,14 +51,14 @@ for (let m = 0; m < blogs.length; m++) {
 }
 const key_arr = Object.keys(tempObj);
 for (let n = 0; n < key_arr.length; n++) {
-  blog_by_year.push(tempObj[key_arr[key_arr.length - 1 - n]]);
+  blog_by_year.push(tempObj[key_arr[n]]);
 }
 definePageMeta( {
   layout: "post",
 });
 
 useSeoMeta({
-  title: () => `江东渚|博客分类:${myTag}`,
+  title: () => `江东渚|文章标签:${myTag}`,
   description: () => `江东渚|文章标签:${myTag}`,
 })
 </script>
